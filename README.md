@@ -6,3 +6,4 @@
 2. created a new branch NewSort
 3. added selection sort algo to the new branch
 4. merged both the branches
+5. screenshots shared in zip file on lms
