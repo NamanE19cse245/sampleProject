@@ -1,6 +1,6 @@
 # sampleProject
 
-## Lab 04
+## SE Lab 04
 
 1. added bubble sort algorithm to main
 2. created a new branch NewSort
